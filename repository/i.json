@@ -765,6 +765,18 @@
 			]
 		},
 		{
+			"name": "InlineShell",
+			"details": "https://github.com/randolph555/sublime-run-command",
+			"labels": ["shell", "terminal", "command", "execute", "run"],
+			"releases": [
+				{
+					"sublime_text": ">=4000",
+					"platforms": ["osx", "linux"],
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "Inno Setup",
 			"details": "https://github.com/idleberg/sublime-innosetup",
 			"labels": ["language syntax", "build system", "inno setup", "innosetup"],
